@@ -1,0 +1,16 @@
+D:\Plugin-Manager\Plugin-Manager\bin\Release\Plugin-Manager.exe.config
+D:\Plugin-Manager\Plugin-Manager\bin\Release\Plugin-Manager.exe
+D:\Plugin-Manager\Plugin-Manager\bin\Release\Plugin-Manager.pdb
+D:\Plugin-Manager\Plugin-Manager\obj\Release\Plugin-Manager.csprojAssemblyReference.cache
+D:\Plugin-Manager\Plugin-Manager\obj\Release\Simple Styles.baml
+D:\Plugin-Manager\Plugin-Manager\obj\Release\MainWindow.g.cs
+D:\Plugin-Manager\Plugin-Manager\obj\Release\App.g.cs
+D:\Plugin-Manager\Plugin-Manager\obj\Release\Plugin-Manager_MarkupCompile.cache
+D:\Plugin-Manager\Plugin-Manager\obj\Release\Plugin-Manager_MarkupCompile.lref
+D:\Plugin-Manager\Plugin-Manager\obj\Release\MainWindow.baml
+D:\Plugin-Manager\Plugin-Manager\obj\Release\Plugin-Manager.g.resources
+D:\Plugin-Manager\Plugin-Manager\obj\Release\Plugin_Manager.Properties.Resources.resources
+D:\Plugin-Manager\Plugin-Manager\obj\Release\Plugin-Manager.csproj.GenerateResource.cache
+D:\Plugin-Manager\Plugin-Manager\obj\Release\Plugin-Manager.csproj.CoreCompileInputs.cache
+D:\Plugin-Manager\Plugin-Manager\obj\Release\Plugin-Manager.exe
+D:\Plugin-Manager\Plugin-Manager\obj\Release\Plugin-Manager.pdb
